@@ -1,0 +1,8 @@
+### IntelliJ IDEA ###
+.idea
+
+### Terraform Provider Code ###
+.terraform
+.terraform.tfstate.lock.info
+terraform.tfstate
+terraform.tfstate.backup
